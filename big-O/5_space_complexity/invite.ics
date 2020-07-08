@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20200526T080000Z
+DTEND:20200526T090000Z
+DTSTAMP:20200521T050954Z
+ORGANIZER;CN=otsuka@rentracks.co.jp:mailto:otsuka@rentracks.co.jp
+UID:17gju7t8hk54iipiridrmf34e7@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=ishibashi@rentracks.co.jp;X-NUM-GUESTS=0:mailto:ishibashi@rentracks
+ .co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=only2020;X-NUM-GUESTS=0:mailto:only2020@rentracks.co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=otsuka@rentracks.co.jp;X-NUM-GUESTS=0:mailto:otsuka@rentracks.co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=zhang@rentracks.co.jp;X-NUM-GUESTS=0:mailto:zhang@rentracks.co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=only2019;X-NUM-GUESTS=0:mailto:only2019@rentracks.co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=asp;X-NUM-GUESTS=0:mailto:asp@rentracks.co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=murakami@rentracks.co.jp;X-NUM-GUESTS=0:mailto:murakami@rentracks.c
+ o.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=watanabe@rentracks.co.jp;X-NUM-GUESTS=0:mailto:watanabe@rentracks.c
+ o.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=oguri@rentracks.co.jp;X-NUM-GUESTS=0:mailto:oguri@rentracks.co.jp
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=okamoto@rentracks.co.jp;X-NUM-GUESTS=0:mailto:okamoto@rentracks.co.
+ jp
+X-MICROSOFT-CDO-OWNERAPPTID:-1036391075
+CREATED:20200521T050949Z
+DESCRIPTION:「ソケット連携」「成果キックバック連携」についての説明を実施致します。\n最近これらの連携を希望するお客様が増えてきております
+ 。\n営業の皆様にはこれらのシステム的な連携をしっかりと理解して頂きたいと考えております。\n\n【実施日時】\n5/26 (火) 17:00～18:
+ 00\n対象者：営業部全員・運用部一部・その他希望者\n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\n説明のこのセクションは編集しないでください。\n\nこの予定に
+ はビデオハングアウトが含まれています。\n参加: https://meet.google.com/sai-edhz-ddo\n+81 50-1700-
+ 8008 PIN: 5796643797344#\n他の電話番号を表示: https://tel.meet/sai-edhz-ddo?pin=5796
+ 643797344&hs=7\n\n予定を https://www.google.com/calendar/event?action=VIEW&eid
+ =MTdnanU3dDhoazU0aWlwaXJpZHJtZjM0ZTcgemhhbmdAcmVudHJhY2tzLmNvLmpw&tok=MjIjb
+ 3RzdWthQHJlbnRyYWNrcy5jby5qcDU2MzNhMzY0ODNlZDE1MDYwYzk0YjJmY2Q0N2Y3Y2MzNDQ2
+ NzcyNTk&ctz=Asia%2FTokyo&hl=ja&es=1 に表示\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20200521T050951Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:【システム説明会】ソケット連携・成果キックバック連携説明会
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
