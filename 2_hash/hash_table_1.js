@@ -22,6 +22,8 @@ class HashTable{
         let index=this._hashStringToInt(key,this.table.length);
         if(this.table[index]){
             return this.table[index].find(elem=>elem[0]===key)[1];
+        }else{
+            return null;
         }
     }
 
